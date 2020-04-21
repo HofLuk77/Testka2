@@ -1,2 +1,7 @@
 Version 1
+<<<<<<< HEAD
 das ist die version 1 das sollte nahcher nicht mear stian
+=======
+text dazu
+Version 2
+>>>>>>> version2
